@@ -40,6 +40,7 @@ public class AppleRealtime {
 //			<h1><font color="#ff0000">【更新】最新民調　74.6%認同飛彈誤射...(4580)</font></h1>
 //			</a>
 //		</li>
+		//   Hello_World
 
 		Elements newsList = CrawlerPack.start()
 		    .getFromHtml(uri)
