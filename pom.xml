@@ -33,6 +33,10 @@
                   <mainClass>crawler.example.integration.PM25ElasticImport</mainClass>
                   <id>pm25ElasticImport</id>
               </program>
+                <program>
+                    <mainClass>crawler.example.integration.PM25</mainClass>
+                    <id>PM25Import</id>
+                </program>
             </programs>
           </configuration>
         </plugin>           
